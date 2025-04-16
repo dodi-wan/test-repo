@@ -10,6 +10,7 @@ public class bottom {
 
         jeans Jeans = new jeans();
         Jeans.Long = "regular";
+        Jeans.Short = "regular fit relax washed";
 
 
         System.out.println(Jeans.Long + "\n" + Jeans.Short);
