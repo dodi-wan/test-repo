@@ -11,7 +11,6 @@ public class bottom {
 
         jeans Jeans = new jeans();
         Jeans.Long = "regular";
-        Jeans.Short = "regular fit relax washed";
         Jeans.chino = "slimfit relax and jacket parka";
 
 
