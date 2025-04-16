@@ -1,7 +1,8 @@
 
 class jeans {
     String  Long,
-            Short;
+            Short,
+            kemeja;
 }
 
 public class bottom {
@@ -10,7 +11,7 @@ public class bottom {
 
         jeans Jeans = new jeans();
         Jeans.Long = "regular";
-        Jeans.Short = "relax fit";
+        Jeans.kemeja = "classic shirt cowboy";
 
         System.out.println(Jeans.Long + "\n" + Jeans.Short);
 
