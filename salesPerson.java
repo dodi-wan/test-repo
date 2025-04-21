@@ -3,6 +3,7 @@ class sales{
     String  men,
             women;
 }
+
 public class salesPerson{
 
     public static void main(String [] args) {
@@ -12,6 +13,5 @@ public class salesPerson{
         Sales.women = "Catrina = 00002";
 
         System.out.println(Sales.men + "\n" + Sales.women);
-
     }
 }
