@@ -11,6 +11,9 @@ public class salesPerson{
 
         Sales.men = "Andy = 00001";
         Sales.women = "Catrina = 00002";
+        Sales.men = "Januarto = 00003";
+        Sales.women = "Kathrine = 40001";
+
 
         System.out.println(Sales.men + "\n" + Sales.women);
     }
